@@ -1,6 +1,5 @@
-#parent_div{
+#signup_div{
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
