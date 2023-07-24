@@ -3,11 +3,13 @@ import signupimage from "../../signup-image.jpg";
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import "./signup.css";
+import useNavigate from "react-router-dom";
 export default function SignUp() {
     const [name,setName]=useState("");
     const [mobile, setMobile] = useState("");
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
+    const navigate=useNavigate();
     const handleSignUp=()=>{
         const user={
             name:name,
@@ -21,6 +23,7 @@ export default function SignUp() {
             body:JSON.stringify(user)
         }).then((res)=>res.json()).then((data)=>{
             alert('User Registered Successfully');
+            navigate("/signin");
         })
     }
     return (
