@@ -1,21 +1,59 @@
-import React from "react";
+import React, { useState } from "react";
+import signupimage from "../../signup-image.jpg";
+import Button from 'react-bootstrap/Button';
+import Form from 'react-bootstrap/Form';
 import "./signup.css";
-import { Password } from "./password";
-import { FloatingLabel } from "./label";
-import { MyButton } from "./button";
-
+import useNavigate from "react-router-dom";
 export default function SignUp() {
+    const [name,setName]=useState("");
+    const [mobile, setMobile] = useState("");
+    const [email, setEmail] = useState("");
+    const [password, setPassword] = useState("");
+    const navigate=useNavigate();
+    const handleSignUp=()=>{
+        const user={
+            name:name,
+            mobileNo:mobile,
+            emailID:email,
+            password:password
+        }
+        fetch(`${process.env.REACT_APP_BASE_URL}/users`,{
+            method:"POST",
+            headers:{'Content-Type':'application/json'},
+            body:JSON.stringify(user)
+        }).then((res)=>res.json()).then((data)=>{
+            alert('User Registered Successfully');
+            navigate("/signin");
+        })
+    }
     return (
-        <div>
-            <div id="parent_div">
-                <h1>Register</h1><br />
-                <FloatingLabel title={"First Name"} />
-                <FloatingLabel title={"Last Name"} />
-                <FloatingLabel title={"Contact No."} />
-                <FloatingLabel title={"Email"} />
-                <Password />
-                <MyButton />
-            </div>
+        <div className="signup_div">
+            <h1>Register</h1>
+            <Form>
+                <Form.Group className="mb-3" controlId="formBasicName">
+                    <Form.Label>Name</Form.Label>
+                    <Form.Control type="text" placeholder="Enter Name" onChange={(e)=>setName(e.target.value)} />
+                </Form.Group>
+                <Form.Group className="mb-3" controlId="formBasicPhone">
+                    <Form.Label>Contact No</Form.Label>
+                    <Form.Control type="number" placeholder="Enter Mobile No." onChange={(e)=>setMobile(e.target.value)} />
+                </Form.Group>
+                <Form.Group className="mb-3" controlId="formBasicEmail">
+                    <Form.Label>Email address</Form.Label>
+                    <Form.Control type="email" placeholder="Enter email" onChange={(e)=>setEmail(e.target.value)} />
+                </Form.Group>
+                <Form.Group className="mb-3" controlId="formBasicPassword">
+                    <Form.Label>Password</Form.Label>
+                    <Form.Control type="password" placeholder="Password" onChange={(e)=>setPassword(e.target.value)} />
+                </Form.Group>
+                <Form.Group className="mb-3" controlId="formBasicCheckbox">
+                    <Form.Check type="checkbox" label="remember me" />
+                </Form.Group>
+                <Button variant="primary" type="button" onClick={()=>handleSignUp()}>
+                    Submit
+                </Button>
+                <img src={signupimage} alt="error"/>
+            </Form>
         </div>
     )
 }
