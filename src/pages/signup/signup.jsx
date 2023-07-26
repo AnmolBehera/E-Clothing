@@ -3,12 +3,17 @@ import signupimage from "../../signup-image.jpg";
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import "./signup.css";
+<<<<<<< HEAD
 import { useNavigate } from "react-router-dom";
+=======
+import useNavigate from "react-router-dom";
+>>>>>>> 09f4249ea7ba5dca129ee332afda25eae1506f13
 export default function SignUp() {
     const [name, setName] = useState("");
     const [mobile, setMobile] = useState("");
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
+<<<<<<< HEAD
     const navigate = useNavigate();
     const handleSignUp = () => {
         if (validate(name,mobile,email,password)) {
@@ -36,6 +41,24 @@ export default function SignUp() {
                 }
             });
         }
+=======
+    const navigate=useNavigate();
+    const handleSignUp=()=>{
+        const user={
+            name:name,
+            mobileNo:mobile,
+            emailID:email,
+            password:password
+        }
+        fetch(`${process.env.REACT_APP_BASE_URL}/users`,{
+            method:"POST",
+            headers:{'Content-Type':'application/json'},
+            body:JSON.stringify(user)
+        }).then((res)=>res.json()).then((data)=>{
+            alert('User Registered Successfully');
+            navigate("/signin");
+        })
+>>>>>>> 09f4249ea7ba5dca129ee332afda25eae1506f13
     }
     return (
         <div className="signup_div">
@@ -68,6 +91,7 @@ export default function SignUp() {
         </div>
     )
 }
+<<<<<<< HEAD
 
 function validate(name,mobile,email,password) {
     if (name === "") {
@@ -137,3 +161,5 @@ function checkSpecialChar(password) {
     }
     return true
 }
+=======
+>>>>>>> 09f4249ea7ba5dca129ee332afda25eae1506f13
