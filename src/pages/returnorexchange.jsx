@@ -43,7 +43,7 @@ const ReturnExchange = () => {
         <Image
           src="https://www.returnlogic.com/wp-content/uploads/2022/09/AdobeStock_379120023-1-1024x683.webp"
           alt="Return & Exchange"
-          height="150px"
+          height="450px"
           mt={4}
         />
       </Container>
