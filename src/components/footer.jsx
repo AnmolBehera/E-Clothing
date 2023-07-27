@@ -95,8 +95,8 @@ import {
             <Flex justifyContent={"space-between"}>
               <Stack align={"flex-start"} marginTop={100}>
                 <Link color='#000000' fontWeight="bolder">About</Link>
+
                 <Link href={"/aboutus"}>Our story</Link>
-               
                 <Link href={"/contact"}>Contact us</Link>
                 <Link href={"/career"}>Careers</Link>
                 <Link href={"/PrivacyPolicy"}>Privacy policy</Link>
@@ -110,10 +110,11 @@ import {
             <Flex justifyContent={"space-between"}>
               <Stack align={"flex-start"} marginTop={100}>
                 <Link color='#000000' fontWeight="bolder">Support</Link>
-                <Link href={"#"}>Payments</Link>
-                <Link href={"#"}>Returns/Exchange</Link>
-                <Link href={"#"}>Shipment</Link>
-                <Link href={"#"}>Terms & conditions</Link>
+
+                <Link href={"/payment"}>Payments</Link>
+                <Link href={"/returnorexchange"}>Returns/Exchange</Link>
+                <Link href={"/shipment"}>Shipment</Link>
+                <Link href={"/termscondition"}>Terms & conditions</Link>
               </Stack>
               <Divider
                 orientation="vertical"
@@ -169,10 +170,10 @@ import {
         >
           <Stack direction={"row"} spacing={1}>
             <Button>
-              <Link color='#000000' href={"https://www.facebook.com/koovs"}><FaFacebook /></Link>
+              <Link color='blue' href={"https://www.facebook.com/koovs"}><FaFacebook /></Link>
             </Button>
             <Button>
-              <Link color='#000000' href={"https://www.instagram.com/koovsfashion/"}><FaInstagram /></Link>              
+              <Link color='violet' href={"https://www.instagram.com/koovsfashion/"}><FaInstagram /></Link>              
             </Button>
           </Stack>
           <Text>© PRODEV5 PRIVATE LIMITED</Text>
