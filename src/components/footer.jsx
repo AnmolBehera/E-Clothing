@@ -98,8 +98,8 @@ import {
                 <Link href={"/aboutus"}>Our story</Link>
                
                 <Link href={"/contact"}>Contact us</Link>
-                <Link href={"#"}>Careers</Link>
-                <Link href={"#"}>Privacy policy</Link>
+                <Link href={"/career"}>Careers</Link>
+                <Link href={"/PrivacyPolicy"}>Privacy policy</Link>
               </Stack>
               <Divider
                 orientation="vertical"
@@ -175,7 +175,7 @@ import {
               <Link color='#000000' href={"https://www.instagram.com/koovsfashion/"}><FaInstagram /></Link>              
             </Button>
           </Stack>
-          <Text>© NEWBRAVE VENTURE PRIVATE LIMITED</Text>
+          <Text>© PRODEV5 PRIVATE LIMITED</Text>
             <Box w="22%" >
                 <Image
                     src="https://cdn.shopify.com/s/files/1/0677/1464/6315/files/payment-removebg-preview-01.png?v=1668333198&width=360"
