@@ -18,7 +18,7 @@ import {
   import { FaInstagram, FaFacebook ,FaCaravan} from "react-icons/fa";
   import { AiOutlineArrowRight } from "react-icons/ai";
   import { HiOutlineMail } from "react-icons/hi";
-  
+ 
   const Footer=()=>{
     return (
       <Box
@@ -95,8 +95,9 @@ import {
             <Flex justifyContent={"space-between"}>
               <Stack align={"flex-start"} marginTop={100}>
                 <Link color='#000000' fontWeight="bolder">About</Link>
-                <Link href={"#"}>Our story</Link>
-                <Link href={"#"}>Contact us</Link>
+                <Link href={"/aboutus"}>Our story</Link>
+               
+                <Link href={"/contact"}>Contact us</Link>
                 <Link href={"#"}>Careers</Link>
                 <Link href={"#"}>Privacy policy</Link>
               </Stack>
