@@ -90,11 +90,14 @@ At Fashion hub, we bring you the latest and trendiest fashion pieces to help you
 ◉  Accessories: Complete your ensemble with our selection of accessories. From chic handbags and statement jewelry to stylish hats and belts, we have the finishing touches you need.
 
 ◉  Beauty: Enhance your natural beauty with our makeup and skincare essentials. Explore top brands and beauty trends to look and feel your best.
-   
-    ![brands](https://github.com/AnmolBehera/E-Clothing/assets/105370000/9980a76e-83f9-42b1-9368-13199add29a7)
+
+   ![brands](https://github.com/AnmolBehera/E-Clothing/assets/105370000/4000736e-a940-40ce-8d10-3b97e4ee05cd)
+
 
 Discover the latest in fashion trends! Explore our curated collection of chic apparel, stylish accessories, and adorable kids' fashion. From elegant dresses to sustainable options, find your perfect fit and 
-elevate your style today. Happy shopping!
+elevate your style today. 
+
+Happy shopping!😎😎😎
 
 
 ### Footer
