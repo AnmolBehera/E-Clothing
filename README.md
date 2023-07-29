@@ -11,27 +11,27 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 
 ### FRONTEND
 
-◉ JavaScript 
-◉ HTML 
-◉ CSS 
-◉ React
+◉ JavaScript       
+◉ HTML          
+◉ CSS         
+◉ React       
 
 ### BACKEND
 
-◉ Nodejs
-◉ MongoDB
-◉ ExpressJs
-◉ External APIs
+◉ Nodejs        
+◉ MongoDB        
+◉ ExpressJs       
+◉ External APIs      
 
 ## Functionalities
 
-◉ Sort By price
-◉ Sort By Looks
-◉ Sort By Category
-◉ Cart Functionality (like adding an item and removing)
-◉ Users Page
-◉ User can order from the website
-◉ Sign Up and Login
+◉ Sort By price          
+◉ Sort By Looks        
+◉ Sort By Category                 
+◉ Cart Functionality (like adding an item and removing)             
+◉ Users Page                        
+◉ User can order from the website             
+◉ Sign Up and Login         
 
 ![signup](https://github.com/AnmolBehera/E-Clothing/assets/105370000/f06bea30-44ce-4d6a-827e-bcacffe5d1c5)
 
