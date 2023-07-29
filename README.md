@@ -67,7 +67,7 @@ Navigation Bar is the topmost layer or bar of our website. In this bar, you find
 
 
 
-### Product Page
+### Product Page 
 
 Welcome to Fashion Hub - Your Ultimate Fashion Destination!
 
@@ -103,18 +103,18 @@ In the footer section you can move to different sections like contact us, privac
 
 ![Screenshot (269)](https://github.com/AnmolBehera/E-Clothing/assets/105370000/268e8993-07e7-475e-aaab-187d417dd5ee)
 
-## Lessons Learned
+## Lessons Learned 💥💥💥💥💥💥💥💥
 
 ◉ Gain excessive knowledge on application of React and DOM manipulation  
 ◉ Gain knowledge on using API.  
 ◉ Got to know how to collabrate with team members.  
 ◉ Enjoyed the process of learning and creating the application.
 
-## Note
+## Note 📝📝📝📝
 
 This website is fully mobile friendly. You can use this website in mobile, tablet either desktop as well as. You feels very nice when you are using this website.
 
-## Contributers😎😎😎😎
+## Contributers 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
