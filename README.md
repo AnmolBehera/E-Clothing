@@ -22,7 +22,7 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 ◉ Nodejs  
 ◉ MongoDB  
 ◉ ExpressJs  
-◉ External APIs
+
 
 ### TOOLS USED
 
