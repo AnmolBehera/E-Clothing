@@ -1,0 +1,10 @@
+#parent_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Increase the width as needed */
+    margin: 1% auto;
+    padding: 2% 5%;
+    margin-bottom: 2%;
+}
