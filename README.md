@@ -14,7 +14,9 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 ◉ JavaScript       
 ◉ HTML          
 ◉ CSS         
-◉ React       
+◉ React
+◉ Chakra-UI
+◉ Mantine-UI
 
 ### BACKEND
 
@@ -59,8 +61,6 @@ Navigation Bar is the topmost layer or bar of our website. In this bar, you find
 ![navbar1](https://github.com/AnmolBehera/E-Clothing/assets/105370000/64245e99-7cf7-4ae2-94b4-02c88b1f6cb2)
 
 
-
-
 It is a cart Page where you find the different kinds of the products which products you added in your cart. Take a look on that
 
 ### Product Page
@@ -69,30 +69,29 @@ Discover the latest in fashion trends! Explore our curated collection of chic ap
 
 ![product1](https://github.com/AnmolBehera/E-Clothing/assets/105370000/0a311fe5-dd74-43db-853f-016d41e84d81)
 
-
-
 ### Footer
 
 As you know that every website have the header and footer. Also in this this website, we have a pritty footer which helps you to move the different kinds of the important pages.
 
 ![Screenshot (269)](https://github.com/AnmolBehera/E-Clothing/assets/105370000/268e8993-07e7-475e-aaab-187d417dd5ee)
 
+## Lessons Learned
 
+◉ Gain excessive knowledge on application of React and DOM manipulation
+◉ Gain knowledge on using API.
+◉ Got to know how to collabrate with team members.
+◉ Enjoyed the process of learning and creating the application.
 
 ## Note
 
 This website is fully mobile friendly. You can use this website in mobile, tablet either desktop as well as. You feels very nice when you are using this website.
 
-Things Used We using different kinds of the technologies to make this website. These things are as follows:
-
-Javascript, React, Readux, Chakra UI, CSS, HTML etc.
-
 ## Contributers
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
- BISHAL PRADHAN       
- ABHIJIT MAHAKUL        
- ANMOL PARTHA BEHERA       
- ANIKET PATRA     
- ASHUTOSH PANDA    
+◉ BISHAL PRADHAN       
+◉ ABHIJIT MAHAKUL        
+◉ ANMOL PARTHA BEHERA       
+◉ ANIKET PATRA     
+◉ ASHUTOSH PANDA    
