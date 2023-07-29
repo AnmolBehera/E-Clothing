@@ -103,6 +103,7 @@ Happy shopping!😎😎😎
 ### Footer
 
 As you know that every website have the header and footer. Also in this this website, we have a pritty footer which helps you to move the different kinds of the important pages.
+In the footer section you can move to different sections like contact us, privacy policy, terms and condition etc. to know more about Our website
 
 ![Screenshot (269)](https://github.com/AnmolBehera/E-Clothing/assets/105370000/268e8993-07e7-475e-aaab-187d417dd5ee)
 
