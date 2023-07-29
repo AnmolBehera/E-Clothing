@@ -24,7 +24,7 @@ const Cart = () => {
   };
 
   const handleRemoveItem = (productId) => {
-    // Update cart items after removing item from the cart
+    // Update cart items after removing item from the cart 
     const updatedCartItems = cartItems.filter((item) => item.productId._id !== productId);
     setCartItems(updatedCartItems);
   };
