@@ -32,8 +32,6 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 
 ## Functionalities
 
-◉ Sort By price  
-◉ Sort By Looks  
 ◉ Sort By Category  
 ◉ Cart Functionality (like adding an item and removing)  
 ◉ Users Page  
