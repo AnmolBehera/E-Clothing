@@ -1,10 +1,10 @@
-## FASHION HUB WEBSITE ❤❤❤❤❤❤
+## FASHION HUB WEBSITE ❤🥼🧥👖🩳👕🕶👓❤
 
 FASHION HUB is a E-commerce related website which helps you to find the different kinds of the products. It is part of THG Holdings plc, a globally renowned end-to-end tech platform specializing in taking brands direct to consumers across the globe. Using its proprietary technology and infrastructure, THG Ingenuity, the Group enables brands to grow at scale while driving unrivalled value and continuous performance.
 
 # Responsive for all screen sizes🚀🚀🚀🚀🚀
 
-## Languages Used
+## Languages Used🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 Skinstore webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
 
@@ -30,7 +30,7 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 ◉ Git  
 ◉ Github
 
-## Functionalities
+## Functionalities ☀☀☀☀☀☀
 
 ◉ Sort By Category  
 ◉ Cart Functionality (like adding an item and removing)  
@@ -114,7 +114,7 @@ In the footer section you can move to different sections like contact us, privac
 
 This website is fully mobile friendly. You can use this website in mobile, tablet either desktop as well as. You feels very nice when you are using this website.
 
-## Contributers
+## Contributers😎😎😎😎
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
