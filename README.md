@@ -14,9 +14,9 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 ◉ JavaScript       
 ◉ HTML          
 ◉ CSS         
-◉ React
-◉ Chakra-UI
-◉ Mantine-UI
+◉ React             
+◉ Chakra-UI             
+◉ Mantine-UI              
 
 ### BACKEND
 
@@ -24,6 +24,12 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 ◉ MongoDB        
 ◉ ExpressJs       
 ◉ External APIs      
+
+### TOOLS USED
+
+◉ VScode             
+◉ Git                  
+◉ Github             
 
 ## Functionalities
 
@@ -65,9 +71,31 @@ It is a cart Page where you find the different kinds of the products which produ
 
 ### Product Page
 
-Discover the latest in fashion trends! Explore our curated collection of chic apparel, stylish accessories, and adorable kids' fashion. From elegant dresses to sustainable options, find your perfect fit and elevate your style today. Happy shopping!
+Welcome to Fashion Hub - Your Ultimate Fashion Destination!
+
+At Fashion hub, we bring you the latest and trendiest fashion pieces to help you express your unique style and personality. Whether you're looking for everyday essentials, chic party outfits, or statement pieces that turn heads, we've got you covered.            
 
 ![product1](https://github.com/AnmolBehera/E-Clothing/assets/105370000/0a311fe5-dd74-43db-853f-016d41e84d81)
+
+#### Discover Fashion Gems:         
+
+◉ Women's Fashion: Embrace the diversity of women's fashion with our stunning collection of dresses, tops, skirts, and more. From bohemian prints to classic silhouettes, our selection is curated to suit all 
+   tastes.
+
+◉  Men's Style: Stay on top of your style game with our impressive range of men's clothing. Find the perfect shirts, trousers, jeans, and accessories to create a polished look that's sure to make a lasting 
+   impression.
+
+◉  Footwear: Step into style and comfort with our footwear collection. Choose from trendy sneakers, elegant heels, casual sandals, and more. Walk the talk with confidence.
+
+◉  Accessories: Complete your ensemble with our selection of accessories. From chic handbags and statement jewelry to stylish hats and belts, we have the finishing touches you need.
+
+◉  Beauty: Enhance your natural beauty with our makeup and skincare essentials. Explore top brands and beauty trends to look and feel your best.
+   
+    ![brands](https://github.com/AnmolBehera/E-Clothing/assets/105370000/9980a76e-83f9-42b1-9368-13199add29a7)
+
+Discover the latest in fashion trends! Explore our curated collection of chic apparel, stylish accessories, and adorable kids' fashion. From elegant dresses to sustainable options, find your perfect fit and 
+elevate your style today. Happy shopping!
+
 
 ### Footer
 
@@ -77,10 +105,10 @@ As you know that every website have the header and footer. Also in this this web
 
 ## Lessons Learned
 
-◉ Gain excessive knowledge on application of React and DOM manipulation
-◉ Gain knowledge on using API.
-◉ Got to know how to collabrate with team members.
-◉ Enjoyed the process of learning and creating the application.
+◉ Gain excessive knowledge on application of React and DOM manipulation                   
+◉ Gain knowledge on using API.                               
+◉ Got to know how to collabrate with team members.                          
+◉ Enjoyed the process of learning and creating the application.                           
 
 ## Note
 
