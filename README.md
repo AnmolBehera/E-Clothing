@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+## KOOVS WEBSITE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+FASHION HUB is a Ecomerse related website which helps you to find the different kinds of the products. It is part of THG Holdings plc, a globally renowned end-to-end tech platform specializing in taking brands direct to consumers across the globe. Using its proprietary technology and infrastructure, THG Ingenuity, the Group enables brands to grow at scale while driving unrivalled value and continuous performance.
 
-## Available Scripts
 
-In the project directory, you can run:
+# Responsive for all screen sizes
 
-### `npm start`
+## Languages Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Skinstore webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### FRONTEND
 
-### `npm test`
+◉ JavaScript 
+◉ HTML 
+◉ CSS 
+◉ React
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### BACKEND
 
-### `npm run build`
+◉ Nodejs
+◉ MongoDB
+◉ ExpressJs
+◉ External APIs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Functionalities
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+◉ Sort By price
+◉ Sort By Looks
+◉ Sort By Category
+◉ Cart Functionality (like adding an item and removing)
+◉ Users Page
+◉ User can order from the website
+◉ Sign Up and Login
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features & Specifications
 
-### `npm run eject`
+### Homepage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Homepage is one of the most important factor which also known by the name of Landing Page. There are different kinds of the Products and populer services are mentioned here. Take a look on it.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Navbar
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Navigation Bar is the topmost layer or bar of our website. In this bar, you find the various types of the menus like Men,Women,Brands, Search,Wishlist, Login, Register, Add to Cart Page etc.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+It is a cart Page where you find the different kinds of the products which products you added in your cart. Take a look on that
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Footer
 
-### Code Splitting
+As you know that every website have the header and footer. Also in this this website, we have a pritty footer which helps you to move the different kinds of the important pages.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Note
 
-### Making a Progressive Web App
+This website is fully mobile friendly. You can use this website in mobile, tablet either desktop as well as. You feels very nice when you are using this website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Things Used We using different kinds of the technologies to make this website. These things are as follows:
 
-### Advanced Configuration
+Javascript, React, Readux, Chakra UI, CSS, HTML etc.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contributers
 
-### Deployment
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ BISHAL PRADHAN
+ ABHIJIT MAHAKUL 
+ ANMOL PARTHA BEHERA
+ ANIKET PATRA
+ ASHUTOSH PANDA 
