@@ -4,7 +4,7 @@ FASHION HUB is a E-commerce related website which helps you to find the differen
 
 # Responsive for all screen sizes🚀🚀🚀🚀🚀
 
-## Languages Used🔥🔥🔥🔥🔥🔥🔥🔥🔥
+## Technologies Used🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 Skinstore webiste looks very amazing and introduced with various type of languages like JavaScript, HTML, CSS etc. There are the some important details regarding with this project which is mentioned below:
 
