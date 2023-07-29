@@ -49,6 +49,15 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 
 ## Features & Specifications🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
+#### Profile page
+
+Your profile page on our fashion-hub e-commerce website is designed to enhance your shopping experience and provide you with a seamless journey through the world of online retail. Here's what you can expect from your profile page:
+
+![profile](https://github.com/AnmolBehera/E-Clothing/assets/105370000/8fefe9b9-da25-4a45-8f15-32d3e804f760)
+
+
+
+
 ### Homepage
 
 Homepage is one of the most important factor which also known by the name of Landing Page. There are different kinds of the Products and populer services are mentioned here. Take a look on it.
