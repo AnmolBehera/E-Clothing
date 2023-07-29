@@ -65,7 +65,7 @@ Navigation Bar is the topmost layer or bar of our website. In this bar, you find
 
 ![navbar1](https://github.com/AnmolBehera/E-Clothing/assets/105370000/64245e99-7cf7-4ae2-94b4-02c88b1f6cb2)
 
-It is a cart Page where you find the different kinds of the products which products you added in your cart. Take a look on that
+
 
 ### Product Page
 
