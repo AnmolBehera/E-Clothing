@@ -33,7 +33,6 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 ## Functionalities ☀☀☀☀☀☀
 
 ◉ Sort By Category  
-◉ Cart Functionality (like adding an item and removing)  
 ◉ Users Page  
 ◉ User can order from the website  
 ◉ Sign Up and Login
