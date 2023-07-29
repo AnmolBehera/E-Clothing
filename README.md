@@ -91,8 +91,8 @@ Javascript, React, Readux, Chakra UI, CSS, HTML etc.
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
- BISHAL PRADHAN
- ABHIJIT MAHAKUL 
- ANMOL PARTHA BEHERA
- ANIKET PATRA
- ASHUTOSH PANDA 
+ BISHAL PRADHAN       
+ ABHIJIT MAHAKUL        
+ ANMOL PARTHA BEHERA       
+ ANIKET PATRA     
+ ASHUTOSH PANDA    
