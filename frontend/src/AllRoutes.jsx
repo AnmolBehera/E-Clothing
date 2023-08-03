@@ -11,6 +11,14 @@ import LogOut from "./components/logout";
 import Profile from "./pages/profile";
 import Homepage from "./pages/homepage";
 import MyOrders from "./pages/myorders";
+import About from "./pages/aboutus";
+import Careers from "./pages/career";
+import Contact from "./pages/contact";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import Payments from "./pages/payment";
+import ReturnExchange from "./pages/returnorexchange";
+import Shipment from "./pages/shipment";
+import TermsAndConditions from "./pages/termscondition";
 
 
 export default function AllRoutes() {
@@ -22,6 +30,14 @@ export default function AllRoutes() {
             <Route path="/product" element={<Product />} />
             <Route path="/singleproduct/:id" element={<SingleProduct/>} />
             <Route path="/category/:category" element={<Category />}/>
+            <Route path="/aboutus" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/career" element={<Careers />} />
+            <Route path="/privacyPolicy" element={<PrivacyPolicy />} />
+            <Route path="/payment" element={<Payments />} />
+            <Route path="/returnorexchange" element={< ReturnExchange/>} />
+            <Route path="/shipment" element={< Shipment/>} />
+            <Route path="/termscondition" element={< TermsAndConditions/>} />
             <Route path="/profile" element={
                 <Auth>
                     <Profile />

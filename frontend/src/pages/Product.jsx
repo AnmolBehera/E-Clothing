@@ -41,9 +41,9 @@ export default function Product() {
     </div>
 
     {/* sort and filter container */}
-    <div style={{ paddingLeft: "5%", width: "100%", display: "flex", gap: "30px", marginBottom: "10px", marginTop: "10px" }} >
+    {/* <div style={{ paddingLeft: "5%", width: "100%", display: "flex", gap: "30px", marginBottom: "10px", marginTop: "10px" }} >
       <Filter />
-    </div>
+    </div> */}
 
     <div style={{
       display: "grid",

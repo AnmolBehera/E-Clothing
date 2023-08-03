@@ -12,7 +12,7 @@ const Cart = () => {
 
   const fetchCartItems = async () => {
     try {
-      const response = await fetch(`${process.env.REACT_APP_BASE_URL}/cart`);
+      const response = await fetch(`${process.env.REACT_APP_BASE_URL}/cart`,);
       if (!response.ok) {
         throw new Error('Error fetching cart items');
       }
@@ -24,7 +24,7 @@ const Cart = () => {
   };
 
   const handleRemoveItem = (productId) => {
-    // Update cart items after removing item from the cart 
+    // Update cart items after removing item from the cart
     const updatedCartItems = cartItems.filter((item) => item.productId._id !== productId);
     setCartItems(updatedCartItems);
   };

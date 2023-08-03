@@ -13,7 +13,6 @@ import {
   AccordionPanel,
   Container,
   Box,
-  useBreakpointValue,
 } from '@chakra-ui/react';
 
 const MyOrders = () => {
@@ -37,8 +36,6 @@ const MyOrders = () => {
     },
     // Add more orders here...
   ];
-
-  const isMobile = useBreakpointValue({ base: true, md: false });
 
   return (
     <Container p={4}>
@@ -76,51 +73,49 @@ const MyOrders = () => {
                   )}
                 </Td>
               </Tr>
-              {isMobile && (
-                <Accordion mt={4} mb={8} defaultIndex={0}>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton>
-                        <span>User Info</span>
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <Table variant="unstyled">
-                        <Tbody>
-                          <Tr>
-                            <Td>Email</Td>
-                            <Td>{order.user.email}</Td>
-                          </Tr>
-                          <Tr>
-                            <Td>Phone no.</Td>
-                            <Td>{order.phno}</Td>
-                          </Tr>
-                          <Tr>
-                            <Td>Address</Td>
-                            <Td>{order.address}</Td>
-                          </Tr>
-                          <Tr>
-                            <Td>Landmark</Td>
-                            <Td>{order.landmark}</Td>
-                          </Tr>
-                          <Tr>
-                            <Td>City</Td>
-                            <Td>{order.city}</Td>
-                          </Tr>
-                          <Tr>
-                            <Td>State</Td>
-                            <Td>{order.state}</Td>
-                          </Tr>
-                          <Tr>
-                            <Td>Zip</Td>
-                            <Td>{order.zip}</Td>
-                          </Tr>
-                        </Tbody>
-                      </Table>
-                    </AccordionPanel>
-                  </AccordionItem>
-                </Accordion>
-              )}
+              <Accordion mt={4} mb={8} defaultIndex={0}>
+                <AccordionItem>
+                  <h2>
+                    <AccordionButton>
+                      <span>User Info</span>
+                    </AccordionButton>
+                  </h2>
+                  <AccordionPanel>
+                    <Table variant="unstyled">
+                      <Tbody>
+                        <Tr>
+                          <Td>Email</Td>
+                          <Td>{order.user.email}</Td>
+                        </Tr>
+                        <Tr>
+                          <Td>Phone no.</Td>
+                          <Td>{order.phno}</Td>
+                        </Tr>
+                        <Tr>
+                          <Td>Address</Td>
+                          <Td>{order.address}</Td>
+                        </Tr>
+                        <Tr>
+                          <Td>Landmark</Td>
+                          <Td>{order.landmark}</Td>
+                        </Tr>
+                        <Tr>
+                          <Td>City</Td>
+                          <Td>{order.city}</Td>
+                        </Tr>
+                        <Tr>
+                          <Td>State</Td>
+                          <Td>{order.state}</Td>
+                        </Tr>
+                        <Tr>
+                          <Td>Zip</Td>
+                          <Td>{order.zip}</Td>
+                        </Tr>
+                      </Tbody>
+                    </Table>
+                  </AccordionPanel>
+                </AccordionItem>
+              </Accordion>
             </React.Fragment>
           ))}
         </Tbody>

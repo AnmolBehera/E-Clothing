@@ -4,6 +4,7 @@ const { UserModel } = require("../models/usermodel");
 
 profileRoute.get("/", async (req, res) => {
     const userId = req.body.userID;
+    //console.log(userId);
     try{
       const findUser = await UserModel.findById( userId );
       if(findUser){
