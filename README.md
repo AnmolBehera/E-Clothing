@@ -121,8 +121,17 @@ This website is fully mobile friendly. You can use this website in mobile, table
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
+<<<<<<< HEAD
 ◉ ANMOL PARTHA BEHERA
 ◉ ASHUTOSH PANDA  
 ◉ ABHIJIT MAHAKUL
 ◉ BISHAL PRADHAN
 ◉ ANIKET PATRA
+=======
+ 
+◉ ANMOL PARTHA BEHERA  
+◉ ASHUTOSH PANDA
+◉ ABHIJIT MAHAKUL
+◉ BISHAL PRADHAN   
+◉ ANIKET PATRA 
+>>>>>>> 4ecc7a42fe3650e88ed891bbb7523db6f0546618
