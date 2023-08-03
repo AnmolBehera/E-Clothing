@@ -124,5 +124,6 @@ Contributions are what make the open source community such an amazing place to l
 ◉ ANMOL PARTHA BEHERA  
 ◉ ASHUTOSH PANDA
 ◉ ABHIJIT MAHAKUL
-◉ BISHAL PRADHAN   
+◉ BISHAL PRADHAN
 ◉ ANIKET PATRA 
+
