@@ -21,8 +21,7 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 
 ◉ Nodejs  
 ◉ MongoDB  
-◉ ExpressJs  
-
+◉ ExpressJs
 
 ### TOOLS USED
 
@@ -37,7 +36,6 @@ Skinstore webiste looks very amazing and introduced with various type of languag
 ◉ User can order from the website  
 ◉ Sign Up and Login
 
-
 ## Features & Specifications🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
 ### Homepage
@@ -46,7 +44,7 @@ Homepage is one of the most important factor which also known by the name of Lan
 
 <img width="960" alt="home1" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/home1.png"><img width="960" alt="home2" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/home2.png"><img width="960" alt="home3" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/home3.png"><img width="960" alt="home4" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/home4.png"><img width="960" alt="home5" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/home5.png"><img width="960" alt="home6" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/home6.png">
 
-### Product Page 
+### Product Page
 
 Welcome to Fashion Hub - Your Ultimate Fashion Destination!
 
@@ -54,12 +52,14 @@ At Fashion hub, we bring you the latest and trendiest fashion pieces to help you
 
 <img width="960" alt="product1" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/product1.png"><img width="960" alt="product2" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/product2.png"><img width="960" alt="product3" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/product3.png"><img width="960" alt="product4" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/product4.png">
 
-### signup page 
+### signup page
+
 for the new admin includes username,email, password, confirm password and contact number of the user after successful signUp, the User will get the access of the portal
 
 <img width="960" alt="signup1" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/signup1.png"><img width="960" alt="signup2" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/signup2.png">
 
 ### signin page
+
 for the user who signedup the page already next time they will only login with email and password that is already being done with same email an password in the signUp, User will get the access of the portal
 
 <img width="959" alt="login" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/login.png">
@@ -71,7 +71,6 @@ Navigation Bar is the topmost layer or bar of our website. In this bar, you find
 <img width="960" alt="navbar1" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/navbar1.png">
 
 <img width="960" alt="navbar2" src="https://github.com/AnmolBehera/E-Clothing/blob/main/frontend/public/images/navbar2.png">
-
 
 #### Profile page
 
@@ -122,8 +121,8 @@ This website is fully mobile friendly. You can use this website in mobile, table
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-◉ BISHAL PRADHAN  
-◉ ABHIJIT MAHAKUL  
-◉ ANMOL PARTHA BEHERA  
-◉ ANIKET PATRA  
-◉ ASHUTOSH PANDA
+◉ ANMOL PARTHA BEHERA
+◉ ASHUTOSH PANDA  
+◉ ABHIJIT MAHAKUL
+◉ BISHAL PRADHAN
+◉ ANIKET PATRA
